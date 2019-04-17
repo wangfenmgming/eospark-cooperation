@@ -1,5 +1,20 @@
 [
   {
+    "gaTag":"EosKingDom",
+    "categoriy":"game",
+    "link":"https://eoskingdom.io/?ref=supereospark",
+    "logo":"eoskingdom_logo.png",
+    "preview":"eoskingdom.png",
+    "title":"EosKingDom",
+    "description":"The Best Blockchain Gaming Platform.",
+    "zh-Hans-CN":{
+      "description":"全链质量最高的扑克类游戏和rpg、slg游戏平台."
+    },
+    "ko":{
+      "description":"이오스체인에서 가장 높은 퀄리티를 자랑하는 겜 플랫폼."
+    }
+  },
+  {
     "gaTag":"dice",
     "categoriy":"game",
     "link":"https://dice.one/?ref=supereospark",
